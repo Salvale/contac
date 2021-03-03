@@ -1,0 +1,7 @@
+C:\Users\c.doris\source\repos\contax\contax\bin\Debug\contax.exe.config
+C:\Users\c.doris\source\repos\contax\contax\bin\Debug\contax.exe
+C:\Users\c.doris\source\repos\contax\contax\bin\Debug\contax.pdb
+C:\Users\c.doris\source\repos\contax\contax\obj\Debug\contax.csprojAssemblyReference.cache
+C:\Users\c.doris\source\repos\contax\contax\obj\Debug\contax.csproj.CoreCompileInputs.cache
+C:\Users\c.doris\source\repos\contax\contax\obj\Debug\contax.exe
+C:\Users\c.doris\source\repos\contax\contax\obj\Debug\contax.pdb
